@@ -1,3 +1,5 @@
+REMINDER: this module is the DRA818U meaning it only operates in UHF
+
 TO DO:
 [ ] edit current written code to correlate to wiring + test
 [ ] transmit morse code on a specific frequency
