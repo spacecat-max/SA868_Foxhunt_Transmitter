@@ -1,11 +1,11 @@
 REMINDER: this module is the DRA818U meaning it only operates in UHF
 
 TO DO:
-[ ] edit current written code to correlate to wiring + test
-[ ] transmit morse code on a specific frequency
+[X] edit current written code to correlate to wiring + test
+[X] transmit morse code on a specific frequency
 [ ] solder breadboard for more secure connections
 [ ] determine how to power the module 
-[ ] create 3 operating on different frequencies 
+[ ] create 3 different modules operating on different frequencies 
 
 Referencing this: https://github.com/fatpat/arduino-dra818
 
